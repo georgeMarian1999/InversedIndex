@@ -1,0 +1,6 @@
+org\example\CustomReducer.class
+org\example\CustomLineRecordReader.class
+org\example\CustomMapper.class
+org\example\CustomCombiner.class
+org\example\InvertedIndex.class
+org\example\CustomTextInputFormat.class
